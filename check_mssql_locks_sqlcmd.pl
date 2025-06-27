@@ -1,5 +1,5 @@
 #!/usr/bin/perl
-# This scripts uses sqlcmd to check status of locks of databases in Nagios
+# This scripts uses sqlcmd to check status of locks of databases in Nagios, making use of sqlcmd command.
 # Author pmartinezr@proton.me GPL v2. 
 
 use strict;
